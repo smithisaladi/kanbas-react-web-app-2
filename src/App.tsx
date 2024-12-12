@@ -6,7 +6,7 @@ import { HashRouter, Route, Routes, Navigate } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <h1 style={{ textAlign: "center" }}>Caroline Pham - CS4550 Section 01</h1>
+      <h1 style={{ textAlign: "center" }}>Smithi Saladi</h1>
       <HashRouter>
         <div>
           <Routes>
